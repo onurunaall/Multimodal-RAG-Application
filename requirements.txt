@@ -1,0 +1,8 @@
+json
+os
+numpy
+cv2
+umap
+sckit-learn
+pandas
+tqdm
